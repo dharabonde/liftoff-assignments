@@ -30,7 +30,7 @@
 - Andrew C
 - Bill C
 - Leslie C
-- Vasundhara C
+- [Chaudhary, Dhara (@dharabonde)](https://github.com/dharabonde/liftoff-assignments)
 - [Cima, Lucas (@TheRazzness)](https://github.com/TheRazzness/liftoff-assignments)
 - Robert C
 - Steven D
